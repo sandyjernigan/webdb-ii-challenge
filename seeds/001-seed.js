@@ -1,4 +1,4 @@
-
+// Add seed data to the database using knex seeds
 exports.seed = function(knex) {
   
   // truncate will reset the primary key each time
